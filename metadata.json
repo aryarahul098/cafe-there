@@ -1,0 +1,6 @@
+{
+  "name": "CAFE THERE - Cash Flow & Profit Tracker",
+  "description": "Daily cash in and out tracker, till drawer reconciliation, profit targets, and Google Sheets sync for CAFE THERE in Indian Rupees (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
